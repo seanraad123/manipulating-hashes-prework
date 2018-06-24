@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.values (':dairy', ':vegetable', ':meat', ':grains')
+  groceries.values (`:dairy`, `:vegetables`, `:meat`, `:grains`)
 
 end
 
