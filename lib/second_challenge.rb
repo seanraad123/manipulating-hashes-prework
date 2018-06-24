@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.values
+  print groceries.values
 
 end
 
