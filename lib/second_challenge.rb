@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  new_array = groceries.values :dairy, :vegetable, :meat, :grains
+  groceries.values :dairy, :vegetable, :meat, :grains
   print new_array
 end
 
