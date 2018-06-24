@@ -9,6 +9,7 @@ def second_challenge
   #code your solution here!
   a = []
   a = groceries.values
+  print a
 
 end
 
