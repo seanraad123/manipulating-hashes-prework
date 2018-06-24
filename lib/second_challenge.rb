@@ -13,3 +13,7 @@ end
 
 
 second_challenge
+
+
+h = { "a" => 100, "b" => 200, "c" => 300 }
+h.values   #=> [100, 200, 300]
