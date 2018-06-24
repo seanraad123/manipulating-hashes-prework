@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   
-  print groceries.values
+  print groceries.dig :dairy, :vegetable, :meat, :grains
 end
 
 
