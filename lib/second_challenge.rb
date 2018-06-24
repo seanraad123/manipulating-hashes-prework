@@ -9,13 +9,9 @@ def second_challenge
   #code your solution here!
   a = []
   a = groceries.values
-  print a.flatten(1)
+  return a.flatten(1)
 
 end
 
 
-second_challenge
 
-
-h = { "a" => 100, "b" => 200, "c" => 300 }
-h.values   #=> [100, 200, 300]
